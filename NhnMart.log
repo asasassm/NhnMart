@@ -1,0 +1,143 @@
+2023-09-08 15:48:04,581 [main] INFO FoodStand [FoodStand.java:45] - 존재하지 않음
+2023-09-08 15:48:24,388 [main] INFO FoodStand [FoodStand.java:45] - 존재하지 않음
+2023-09-08 15:50:49,658 [main] INFO FoodStand [FoodStand.java:45] - 존재하지 않음
+2023-09-08 15:50:54,612 [main] INFO FoodStand [FoodStand.java:45] - 존재하지 않음
+2023-09-08 15:51:04,115 [main] INFO FoodStand [FoodStand.java:45] - 존재하지 않음
+2023-09-08 15:51:45,435 [main] INFO Food
+2023-09-08 16:24:22,664 [main] INFO FoodStand [FoodStand.java:43] - 존재하지 않음
+2023-09-08 16:25:30,109 [main] INFO FoodStand [FoodStand.java:45] - 존재하지 않음
+2023-09-08 16:28:26,082 [main] INFO FoodStand [FoodStand.java:29] - name은 존재하지 않습니다.Stand [FoodStand.java:45] - 존재하지 않음
+2023-09-08 15:51:45,438 [main] INFO FoodStand [FoodStand.java:45] - 존재하지 않음
+2023-09-08 15:55:07,839 [main] INFO FoodStand [FoodStand.java:45] - 존재하지 않음
+2023-09-08 15:55:07,841 [main] INFO FoodStand [FoodStand.java:45] - 존재하지 않음
+2023-09-08 16:08:08,714 [main] INFO FoodStand [FoodStand.java:45] - 존재하지 않음
+2023-09-08 16:09:13,501 [main] INFO FoodStand [FoodStand.java:45] - 존재하지 않음
+2023-09-08 16:10:30,159 [main] INFO FoodStand [FoodStand.java:46] - 존재하지 않음
+2023-09-08 16:10:38,511 [main] INFO FoodStand [FoodStand.java:46] - 존재하지 않음
+2023-09-08 16:12:22,414 [main] INFO FoodStand [FoodStand.java:46] - 존재하지 않음
+2023-09-08 16:18:28,839 [main] INFO FoodStand [FoodStand.java:43] - 존재하지 않음
+2023-09-08 16:19:31,042 [main] INFO FoodStand [FoodStand.java:43] - 존재하지 않음
+2023-09-08 16:19:53,971 [main] INFO FoodStand [FoodStand.java:43] - 존재하지 않음
+2023-09-08 16:23:06,616 [main] INFO FoodStand [FoodStand.java:43] - 존재하지 않음
+2023-09-08 16:23:56,263 [main] INFO FoodStand [FoodStand.java:43] - 존재하지 않음
+2023-09-08 16:24:09,859 [main] INFO FoodStand [FoodStand.java:43] - 존재하지 않음
+2023-09-08 16:33:30,975 [main] INFO FoodStand [FoodStand.java:34] - ㄹㄹ은 존재 하지 않습니다.
+2023-09-08 16:33:40,886 [main] INFO FoodStand [FoodStand.java:34] - ㄹㄹ은 존재 하지 않습니다.
+2023-09-08 16:35:16,366 [main] INFO FoodStand [FoodStand.java:33] - ㄹㄹ은 존재 하지 않습니다.
+2023-09-08 16:35:30,095 [main] INFO FoodStand [FoodStand.java:33] - ㄹㄹ은 존재 하지 않습니다.
+2023-09-08 16:35:54,290 [main] INFO FoodStand [FoodStand.java:33] - ㄹㄹ은 존재 하지 않습니다.
+2023-09-08 17:10:44,406 [main] INFO FoodStand [FoodStand.java:33] - ㄹㄹ은 존재 하지 않습니다.
+2023-09-08 17:10:48,239 [main] INFO Basket [Basket.java:26] - 바구니가 비어있습니다.
+2023-09-08 17:11:33,334 [main] INFO Basket [Basket.java:44] - d은 존재 하지 않습니다.
+2023-09-08 17:12:06,391 [main] INFO Basket [Basket.java:44] - d은 존재 하지 않습니다.
+2023-09-08 17:45:42,395 [main] INFO FoodStand [FoodStand.java:33] - ㄹㄹ은 존재 하지 않습니다.
+2023-09-08 17:45:56,750 [main] INFO FoodStand [FoodStand.java:33] - ㄹㄹ은 존재 하지 않습니다.
+2023-09-10 14:55:03,950 [main] INFO BuyList [BuyList.java:20] - 이름을 입력 세요
+2023-09-10 15:00:45,436 [main] INFO BuyListTest [BuyListTest.java:28] - name : Hi , amount0
+2023-09-10 15:00:45,438 [main] INFO BuyListTest [BuyListTest.java:28] - name : qqq , amount0
+2023-09-10 15:01:07,816 [main] INFO BuyListTest [BuyListTest.java:28] - name : Hi , amount0
+2023-09-10 15:01:07,819 [main] INFO BuyListTest [BuyListTest.java:28] - name : qqq , amount0
+2023-09-10 15:01:07,819 [main] INFO BuyListTest [BuyListTest.java:33] - name : qqq , amount0
+2023-09-10 15:02:19,392 [main] INFO BuyListTest [BuyListTest.java:28] - name : Hi , amount2
+2023-09-10 15:02:19,395 [main] INFO BuyListTest [BuyListTest.java:28] - name : qqq , amount0
+2023-09-10 15:02:19,395 [main] INFO BuyListTest [BuyListTest.java:33] - name : qqq , amount0
+2023-09-10 17:18:41,217 [main] INFO BuyList [BuyList.java:19] - 이름을 입력 세요
+2023-09-10 17:21:19,860 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:21:19,865 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:23:58,147 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:23:58,152 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:23:58,162 [main] INFO Counter Logger [Counter.java:12] - 총 금액 : 500 , 결제 후 금액 : 9500
+2023-09-10 17:32:54,986 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:33:17,008 [main] INFO MartShell Logger [NhnMartShell.java:45] - ㅇㅇ은 상품 목록에 없습니다.
+2023-09-10 17:33:17,009 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:33:22,767 [main] INFO MartShell Logger [NhnMartShell.java:45] - 양파은 상품 목록에 없습니다.
+2023-09-10 17:33:22,768 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:33:23,237 [main] INFO MartShell Logger [NhnMartShell.java:45] - 2은 상품 목록에 없습니다.
+2023-09-10 17:33:23,238 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:33:25,527 [main] INFO MartShell Logger [NhnMartShell.java:45] - 파은 상품 목록에 없습니다.
+2023-09-10 17:33:25,528 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:33:26,117 [main] INFO MartShell Logger [NhnMartShell.java:45] - 3은 상품 목록에 없습니다.
+2023-09-10 17:33:26,118 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:33:29,393 [main] INFO MartShell Logger [NhnMartShell.java:45] - 종료은 상품 목록에 없습니다.
+2023-09-10 17:33:29,394 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:34:31,719 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:34:34,758 [main] INFO MartShell Logger [NhnMartShell.java:47] - 양파은 상품 목록에 없습니다.
+2023-09-10 17:34:34,759 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:34:35,142 [main] INFO MartShell Logger [NhnMartShell.java:47] - 2은 상품 목록에 없습니다.
+2023-09-10 17:34:35,143 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:34:46,758 [main] INFO MartShell Logger [NhnMartShell.java:47] - 양파은 상품 목록에 없습니다.
+2023-09-10 17:34:46,758 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:35:35,145 [main] INFO MartShell Logger [NhnMartShell.java:47] - 파은 상품 목록에 없습니다.
+2023-09-10 17:35:35,146 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:35:40,162 [main] INFO Counter Logger [Counter.java:12] - 총 금액 : 0 , 결제 후 금액 : 10000
+2023-09-10 17:37:17,295 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:37:21,462 [main] INFO MartShell Logger [NhnMartShell.java:47] - 갯수를 입력하세요
+2023-09-10 17:37:22,440 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:38:17,720 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:38:19,864 [main] INFO MartShell Logger [NhnMartShell.java:47] - 갯수를 입력하세요
+2023-09-10 17:38:20,274 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:38:23,014 [main] INFO MartShell Logger [NhnMartShell.java:47] - 갯수를 입력하세요
+2023-09-10 17:38:23,578 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:38:24,693 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:38:24,694 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:38:24,705 [main] INFO Counter Logger [Counter.java:12] - 총 금액 : 500 , 결제 후 금액 : 9500
+2023-09-10 17:42:53,181 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:42:55,931 [main] INFO MartShell Logger [NhnMartShell.java:47] - 갯수를 입력하세요
+2023-09-10 17:42:57,763 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:42:59,447 [main] INFO MartShell Logger [NhnMartShell.java:47] - 갯수를 입력하세요
+2023-09-10 17:42:59,837 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:43:00,998 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:43:00,999 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:43:01,012 [main] INFO Counter Logger [Counter.java:12] - 총 금액 : 500 , 결제 후 금액 : 9500
+2023-09-10 17:55:56,275 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:55:58,508 [main] INFO MartShell Logger [NhnMartShell.java:47] - 갯수를 입력하세요
+2023-09-10 17:55:59,187 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:56:00,992 [main] INFO MartShell Logger [NhnMartShell.java:47] - 갯수를 입력하세요
+2023-09-10 17:56:01,585 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:56:03,186 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:56:03,186 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:56:03,186 [main] INFO Customer Logger [Customer.java:31] - 장바구니 목록
+2023-09-10 17:56:03,192 [main] INFO Counter Logger [Counter.java:12] - 총 금액 : 1500 , 결제 후 금액 : 8500
+2023-09-10 17:57:26,450 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:57:30,634 [main] INFO MartShell Logger [NhnMartShell.java:47] - 갯수를 입력하세요
+2023-09-10 17:57:31,827 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:57:34,945 [main] INFO MartShell Logger [NhnMartShell.java:47] - 갯수를 입력하세요
+2023-09-10 17:57:35,606 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:57:37,590 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:57:37,591 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:57:37,591 [main] INFO Customer Logger [Customer.java:31] - 장바구니 목록
+2023-09-10 17:58:17,602 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:58:21,144 [main] INFO MartShell Logger [NhnMartShell.java:47] - 갯수를 입력하세요
+2023-09-10 17:58:21,536 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:58:23,314 [main] INFO MartShell Logger [NhnMartShell.java:47] - 갯수를 입력하세요
+2023-09-10 17:58:24,147 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 17:58:26,792 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:58:26,793 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 17:58:26,793 [main] INFO Customer Logger [Customer.java:31] - 장바구니 목록
+2023-09-10 17:58:26,798 [main] INFO Counter Logger [Counter.java:12] - 총 금액 : 2500 , 결제 후 금액 : 7500
+2023-09-10 18:03:28,591 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 18:03:32,674 [main] INFO MartShell Logger [NhnMartShell.java:47] - 갯수를 입력하세요
+2023-09-10 18:03:33,205 [main] INFO MartShell Logger [NhnMartShell.java:42] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 18:03:35,458 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 18:03:35,459 [main] INFO Customer Logger [Customer.java:31] - 장바구니 목록
+2023-09-10 18:03:35,464 [main] INFO Customer Logger [Customer.java:36] - 금액을 초과해서 담을 수 없습니다 . 현재 담은 금액 : 15000
+2023-09-10 18:03:35,467 [main] INFO Counter Logger [Counter.java:12] - 총 금액 : 15000 , 결제 후 금액 : -5000
+2023-09-10 18:08:23,264 [main] INFO MartShell Logger [NhnMartShell.java:44] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 18:08:25,815 [main] INFO MartShell Logger [NhnMartShell.java:49] - 갯수를 입력하세요
+2023-09-10 18:09:58,526 [main] INFO MartShell Logger [NhnMartShell.java:44] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 18:10:02,027 [main] INFO MartShell Logger [NhnMartShell.java:49] - 갯수를 입력하세요
+2023-09-10 18:10:02,982 [main] INFO MartShell Logger [NhnMartShell.java:44] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 18:10:05,329 [main] INFO MartShell Logger [NhnMartShell.java:49] - 갯수를 입력하세요
+2023-09-10 18:10:06,009 [main] INFO MartShell Logger [NhnMartShell.java:44] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 18:10:07,578 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 18:10:07,579 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 18:10:07,579 [main] INFO Customer Logger [Customer.java:31] - 장바구니 목록
+2023-09-10 18:10:21,038 [main] INFO MartShell Logger [NhnMartShell.java:44] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 18:10:23,691 [main] INFO MartShell Logger [NhnMartShell.java:49] - 갯수를 입력하세요
+2023-09-10 18:10:25,784 [main] INFO MartShell Logger [NhnMartShell.java:44] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 18:10:28,070 [main] INFO MartShell Logger [NhnMartShell.java:49] - 갯수를 입력하세요
+2023-09-10 18:10:28,541 [main] INFO MartShell Logger [NhnMartShell.java:44] - 음식을 담으세요 : 양파 계란 파 사과 / 종료 시 종료 입력
+2023-09-10 18:10:29,868 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 18:10:29,868 [main] INFO FoodStand [FoodStand.java:55] - 존재하지 않음
+2023-09-10 18:10:29,869 [main] INFO Customer Logger [Customer.java:31] - 장바구니 목록
+2023-09-10 18:10:29,881 [main] INFO Counter Logger [Counter.java:12] - 총 금액 : 5000 , 결제 후 금액 : 5000
